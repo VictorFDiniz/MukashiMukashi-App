@@ -1,6 +1,6 @@
 # MukashiMukashi-App
 
-Versão mobile do projeto mukashimukashi sendo construindo em React native.
+Versão mobile do projeto mukashimukashi.
 
 ## Tecnologias Utilizadas
 
